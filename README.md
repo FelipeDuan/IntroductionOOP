@@ -52,7 +52,7 @@ São como **caixas que guardam outras coisas dentro**. Armazenam referências (e
 **Exemplo:**
 
 ```java
-int idade = 25;  // Um bloco simples com o número 25 dentro
+int idade = 18;  // Um bloco simples com o número 18 dentro
 String nome = "Felipe";  // Uma caixa com o nome "Felipe" dentro
 ```
 
@@ -168,7 +168,7 @@ switch(dia) {
 
 O código acima demonstra o uso da estrutura de controle `switch` em Java para selecionar uma ação específica com base no valor da variável `dia`. 
 
-Inicialmente, a variável `dia` é definida com o valor 3. Em seguida, a estrutura `switch` entra em ação, comparando o valor de `dia` com os valores especificados nos `case`s. 
+Inicialmente, a variável `dia` é definida com o valor 3. Em seguida, a estrutura `switch` entra em ação, comparando o valor de `dia` com os valores especificados nos `cases`. 
 
 Cada `case` representa uma possível opção para o valor da variável `dia`. No código, temos `case 1` e `case 2`, que correspondem aos dias "Domingo" e "Segunda-feira", respectivamente. Se o valor de `dia` corresponder a algum desses casos, o bloco de código associado a esse `case` será executado. 
 
