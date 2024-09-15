@@ -1,4 +1,4 @@
-# ☕ Mergulho na POO com Java: Um Passeio Por todo o Assunto 🚀
+# ☕ Mergulho em POO com Java: Um Passeio Por todo o Assunto 🚀
 
 **Autor:** Felipe Duan, Estudante de Engenharia de Software
 
